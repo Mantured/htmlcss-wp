@@ -132,7 +132,13 @@ li {
     height: 200px;
     background-color: rgba(0, 0, 0, 0.4);
     border-radius: .5em;
-    
 
+}
 
+#footer-heart{
+    text-align: center;
+    padding: 1rem;
+}
+#footer-heart span{
+    color: red;
 }
