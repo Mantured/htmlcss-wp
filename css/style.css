@@ -6,11 +6,7 @@
     box-sizing: border-box;
 
 }
-#top-menu ul{
-    list-style-type: none;
-    padding-left: 0;
-    
-}
+
 
 .menu a{
     text-decoration:none;
@@ -110,6 +106,12 @@
     padding-right: 1em;
     border-right: 1px solid rgb(225,225,225);
 
+}
+
+#top-menu ul{
+    list-style-type: none;
+    padding-left: 0;
+    
 }
 
 #jumbotron{
